@@ -2,22 +2,22 @@
 
 Um projeto simples de **barra de pesquisa responsiva** usando HTML e CSS.
 
-## ✨ Sobre
+## Sobre
 
 Este projeto demonstra como criar uma **search box moderna e responsiva**, ideal para sites e aplicações web.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML
 - CSS
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 - Campo de pesquisa estilizado
 - Design responsivo
 - Interface simples e limpa
 
-## 🚀 Como usar
+## Como usar
 
 1. Baixe ou clone o repositório  
 2. Abra o arquivo `index.html` no navegador 
